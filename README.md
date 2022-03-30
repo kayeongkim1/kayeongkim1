@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayeongkim1
 - 👀 I’m interested in web service
-- 🌱 I’m currently learning reactnative
+- 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kykim097@gmail.com
 
