@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kayeong Kim</h1>
 <h3 align="center">Wanna be a full stack developer!</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayeongkim1" alt="kayeongkim1" /></a> </p>
+
 - 🌱 I’m currently learning **Spring Boot**
 
+- 👯 I’m looking to collaborate on **ReactJS, Spring Boot**
+
 - 📫 How to reach me **kykim097@gmail.com**
+
+- 📄 Know about my experiences [https://confused-marjoram-467.notion.site/CV-1ede1ec0109a49cfa920189d534dcd72](https://confused-marjoram-467.notion.site/CV-1ede1ec0109a49cfa920189d534dcd72)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
