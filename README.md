@@ -20,4 +20,6 @@
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayeongkim1&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayeongkim1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  [![Kayeong's GitHub stats](https://github-readme-stats-ruddy-eta.vercel.app.vercel.app/api?username=kayeongkim)](https://github.com/kayeongkim1/github-readme-stats)
+
 </p>
