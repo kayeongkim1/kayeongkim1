@@ -20,5 +20,9 @@
 <p>
   <img height="180em" src="https://github-readme-stats-ruddy-eta.vercel.app.vercel.app/api?username=kayeongkim1&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayeongkim1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
+<p>
+  <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-n4nb3jxj0-kayeongkim1.vercel.app)/api?username=kayeongkim1&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-n4nb3jxj0-kayeongkim1.vercel.app)/api/top-langs/?username=kayeongkim1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
