@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayeong Kim</h1>
 <h3 align="center">A full stack developer!</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working in **Financial Industry**
 
 - 👯 I’m looking to collaborate on **ReactJS, Spring Boot**
 
